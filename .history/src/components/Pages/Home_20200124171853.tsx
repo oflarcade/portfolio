@@ -1,0 +1,13 @@
+import React from 'react';
+
+const Home: React.FC = () => {
+  return (
+    <div>
+      <h1>Home</h1>
+      <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus deserunt facere ipsum dicta architecto, sit nam reprehenderit, quod non exercitationem! Mollitia pariatur odio repellat, beatae eos non repellendus omnis, maiores dolores tenetur odit temporibus. A, repellat saepe. Suscipit quis cupiditate hic ullam nemo ipsa animi tempora dolor cum adipisci facere totam omnis, quam voluptatibus error exercitationem reiciendis, sunt eveniet, culpa minus facilis dolorum corporis. Ipsam cupiditate error provident recusandae rerum unde distinctio ducimus minima debitis magni reiciendis dolores deleniti quis, quo maiores quaerat accusantium neque! Soluta iure consequatur enim ipsam nisi impedit! Sed repudiandae, aliquam vitae eum, tenetur sint consequatur adipisci a est architecto provident sit deleniti dignissimos perspiciatis, eligendi distinctio fugiat sunt labore quam facilis? Quod odio dignissimos nam reprehenderit. Doloribus qui eligendi quo vitae quibusdam mollitia est, ratione, velit nemo magni quis sapiente ad dolores eaque ab, tenetur nostrum repellat tempora! Quas tempore placeat atque blanditiis, ipsa molestias cumque excepturi cupiditate, architecto quidem sit voluptates officiis officia perferendis a reprehenderit unde dolor ex. In, fugit dolor veniam aperiam voluptates doloremque vero officia voluptas modi quasi esse ea nam reprehenderit assumenda libero aliquid tempora optio magnam maxime corporis laudantium itaque eum iusto. Ullam, error porro. Soluta neque possimus sequi cum, pariatur architecto repudiandae odio assumenda dolores id voluptate natus odit error repellat nesciunt libero! In aperiam minus, similique laboriosam nihil consequuntur odit libero natus itaque, nesciunt neque, dignissimos magnam earum dolores molestiae aliquam quia reprehenderit quasi unde aut commodi id consequatur iste ad? Obcaecati, veniam repudiandae beatae alias repellat quam nisi et iste distinctio tempora laborum quos blanditiis laudantium non accusamus nam a optio rerum explicabo. Maxime facilis soluta iste accusamus quibusdam inventore commodi quia rerum, necessitatibus minus tempora delectus debitis laboriosam. Consequuntur provident voluptas porro nesciunt necessitatibus ipsum, commodi perspiciatis at mollitia doloribus, ratione vel tempore odio.</h3>
+      <img src="https://via.placeholder.com/300" alt=""/>
+    </div>
+  )
+};
+
+export default Home;
